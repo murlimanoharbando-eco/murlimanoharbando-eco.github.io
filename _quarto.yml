@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Murli Manohar"
+  navbar:
+    left: 
+      - text: Home
+        file: index.qmd
+      - text: Conferences
+        file: conferences.qmd
+      - text: Teaching
+        file: teaching.qmd
+
+format:
+  html:
+    fontsize: 1.1rem
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+

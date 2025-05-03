@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mathematical Economics\nMicro Economics\nMacro Economics\nStatistics\nSoft Skills for Economics\nResearch Methodology\nEconometrics"
+  },
+  {
+    "objectID": "teaching.html#till-date-simdega-college-simdega",
+    "href": "teaching.html#till-date-simdega-college-simdega",
+    "title": "Teaching",
+    "section": "",
+    "text": "Mathematical Economics\nMicro Economics\nMacro Economics\nStatistics\nSoft Skills for Economics\nResearch Methodology\nEconometrics"
+  },
+  {
+    "objectID": "teaching.html#st.xaviers-college-ranchi",
+    "href": "teaching.html#st.xaviers-college-ranchi",
+    "title": "Teaching",
+    "section": "2016 - 2019 (St.Xavier’s College, Ranchi)\n",
+    "text": "2016 - 2019 (St.Xavier’s College, Ranchi)\n\n\nAt Both Under Graduate and Post Graduate level\nMathematical Economics\nMicro Economics\nMacro Economics\nFinancial Economics"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences",
+    "section": "",
+    "text": "Paper Presentations\n\n\nPaper presentation titled “Bridging the Divide: Addressing the Education and Skill Development Gap for Sustainable Tribal Development in Jharkhand” with Akanksha Swaroop at K.O.College, Gumla (Ranchi University), November 2023\n\nPaper presentation titled “From Ancient Texts to Modern Practices: The Enduring Influence of Arthashastra on Economics and Governance” with Srishti Shalini at Doranda College, Doranda (Ranchi University), January 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Murli Manohar",
+    "section": "",
+    "text": "I am a PhD candidate in Economics at Jawaharlal Nehru University, New Delhi, and serve as an Assistant Professor at Ranchi University, Ranchi (Jharkhand). Passionate about advancing economic research, my work primarily focuses on education, while I remain open to exploring diverse areas within the field of economics."
+  },
+  {
+    "objectID": "index.html#hey-welcome",
+    "href": "index.html#hey-welcome",
+    "title": "Murli Manohar",
+    "section": "",
+    "text": "I am a PhD candidate in Economics at Jawaharlal Nehru University, New Delhi, and serve as an Assistant Professor at Ranchi University, Ranchi (Jharkhand). Passionate about advancing economic research, my work primarily focuses on education, while I remain open to exploring diverse areas within the field of economics."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]

@@ -1,0 +1,22 @@
+---
+title: "Murli Manohar"
+image: Murli_Manohar.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/msq0728
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/murlimanohar0728
+    - icon: github
+      text: Github
+      href: https://github.com/murlimanohar
+
+---
+
+## Hey, Welcome!!
+ I am a PhD candidate in *Economics* at *Jawaharlal Nehru University, New Delhi*, and serve as an *Assistant Professor* at *Ranchi University, Ranchi (Jharkhand)*. Passionate about advancing economic research, my work primarily focuses on education, while I remain open to exploring diverse areas within the field of economics.
