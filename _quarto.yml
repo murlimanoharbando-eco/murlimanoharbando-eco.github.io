@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Murli Manohar"
+  favicon: mmb.png
   navbar:
     left: 
       - text: Home
